@@ -5,7 +5,7 @@ to become a web designer (as a side hustle)
 - 💞️ I’m looking to collaborate on Python to create a video game
 - 📫 How to reach me: criscampagna7@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Unity is my favorite gaming engine
+- ⚡ Fun fact: Eminem is my fav rapper
 
 <!---
 Clone0-0/Clone0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
